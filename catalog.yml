@@ -1,0 +1,17 @@
+PREDEF:
+  - mysql80thin00.re
+  - mysql80thinR1.re
+CHAPS:
+  - mysql80thin01.re
+  - mysql80thin02.re
+  - mysql80thin03.re
+  - mysql80thin04.re
+  - mysql80thin05.re
+  - mysql80thin06.re
+  - mysql80thin07.re
+  - mysql80thin08.re
+  - mysql80thin09.re
+  - mysql80thin10.re
+APPENDIX:
+POSTDEF:
+  - mysql80thinZ1.re
